@@ -1,0 +1,31 @@
+﻿  YEnermy.cpp
+  WEnermy.cpp
+  Stage.cpp
+  Solider.cpp
+  SEnermy.cpp
+  ScoreBoard.cpp
+  SceneObj.cpp
+  SceneMgr.cpp
+  ObjMgr.cpp
+  ObjCreator.cpp
+  Obj.cpp
+  Mapping.cpp
+  MainGame.cpp
+  Main.cpp
+  Logo.cpp
+  KeyMgr.cpp
+  Enermy.cpp
+  DoubleBuffer.cpp
+c:\users\devstudent\desktop\프로그래밍\sbs게임아카데미\sbs 컴퓨터 게임아카데미 (2)\포트폴리오\포트폴리오 v0.3 160824\doubleshot\doublebuffer.cpp(24): warning C4838: 'const int'에서 'SHORT'(으)로의 변환에는 축소 변환이 필요합니다.
+c:\users\devstudent\desktop\프로그래밍\sbs게임아카데미\sbs 컴퓨터 게임아카데미 (2)\포트폴리오\포트폴리오 v0.3 160824\doubleshot\doublebuffer.cpp(64): warning C4267: '인수': 'size_t'에서 'DWORD'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  CursorMgr.cpp
+  CollisionMgr.cpp
+  코드를 생성하고 있습니다...
+  컴파일하고 있습니다...
+  Bullet4.cpp
+  Bullet3.cpp
+  Bullet2.cpp
+  Bullet.cpp
+  코드를 생성하고 있습니다...
+  DoubleShot.vcxproj -> C:\Users\DevStudent\Desktop\프로그래밍\sbs게임아카데미\SBS 컴퓨터 게임아카데미 (2)\포트폴리오\포트폴리오 v0.3 160824\x64\Debug\DoubleShot.exe
+  DoubleShot.vcxproj -> C:\Users\DevStudent\Desktop\프로그래밍\sbs게임아카데미\SBS 컴퓨터 게임아카데미 (2)\포트폴리오\포트폴리오 v0.3 160824\x64\Debug\DoubleShot.pdb (Full PDB)

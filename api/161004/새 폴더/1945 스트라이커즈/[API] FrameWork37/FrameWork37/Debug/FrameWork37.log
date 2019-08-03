@@ -1,0 +1,32 @@
+﻿  stdafx.cpp
+  Monster.cpp
+  Player.cpp
+  StageBack.cpp
+d:\프로그래밍\sbs 컴퓨터 게임아카데미\api\161004\새 폴더\1945 스트라이커즈\[api] framework37\framework37\stageback.cpp(61): warning C4244: '-=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\프로그래밍\sbs 컴퓨터 게임아카데미\api\161004\새 폴더\1945 스트라이커즈\[api] framework37\framework37\stageback.cpp(62): warning C4244: '+=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\프로그래밍\sbs 컴퓨터 게임아카데미\api\161004\새 폴더\1945 스트라이커즈\[api] framework37\framework37\stageback.cpp(67): warning C4244: '+=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\프로그래밍\sbs 컴퓨터 게임아카데미\api\161004\새 폴더\1945 스트라이커즈\[api] framework37\framework37\stageback.cpp(68): warning C4244: '-=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\프로그래밍\sbs 컴퓨터 게임아카데미\api\161004\새 폴더\1945 스트라이커즈\[api] framework37\framework37\stageback.cpp(73): warning C4244: '-=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\프로그래밍\sbs 컴퓨터 게임아카데미\api\161004\새 폴더\1945 스트라이커즈\[api] framework37\framework37\stageback.cpp(74): warning C4244: '+=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\프로그래밍\sbs 컴퓨터 게임아카데미\api\161004\새 폴더\1945 스트라이커즈\[api] framework37\framework37\stageback.cpp(79): warning C4244: '+=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\프로그래밍\sbs 컴퓨터 게임아카데미\api\161004\새 폴더\1945 스트라이커즈\[api] framework37\framework37\stageback.cpp(80): warning C4244: '-=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  MyButton.cpp
+d:\프로그래밍\sbs 컴퓨터 게임아카데미\api\161004\새 폴더\1945 스트라이커즈\[api] framework37\framework37\mybutton.cpp(58): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  BackGround.cpp
+  Obj.cpp
+  Stage.cpp
+  MyMenu.cpp
+  Logo.cpp
+  StateObj.cpp
+  KeyMgr.cpp
+  Device.cpp
+  Mouse.cpp
+  BitMap.cpp
+  StateMgr.cpp
+  MainGame.cpp
+  FrameWork37.cpp
+  ObjMgr.cpp
+  코드를 생성하고 있습니다...
+ObjMgr.obj : warning LNK4075: '/EDITANDCONTINUE'이(가) '/SAFESEH' 사양으로 인해 무시됩니다.
+  FrameWork37.vcxproj -> D:\프로그래밍\SBS 컴퓨터 게임아카데미\api\161004\새 폴더\1945 스트라이커즈\[API] FrameWork37\Debug\FrameWork37.exe
+  FrameWork37.vcxproj -> D:\프로그래밍\SBS 컴퓨터 게임아카데미\api\161004\새 폴더\1945 스트라이커즈\[API] FrameWork37\Debug\FrameWork37.pdb (Full PDB)

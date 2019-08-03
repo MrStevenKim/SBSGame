@@ -1,0 +1,20 @@
+﻿  Stage.cpp
+  SceneObj.cpp
+  SceneMgr.cpp
+  Player.cpp
+  Obj.cpp
+  MyMenu.cpp
+  Monster.cpp
+  MainGame.cpp
+  Logo.cpp
+  KeyMgr.cpp
+  DoubleBuffer.cpp
+c:\users\devstudent\desktop\프로그래밍\sbs게임아카데미\sbs 컴퓨터 게임아카데미 (2)\c++ 표준\160823\framework7\framework\doublebuffer.cpp(24): warning C4838: 'const int'에서 'SHORT'(으)로의 변환에는 축소 변환이 필요합니다.
+  CursorMgr.cpp
+  Collision.cpp
+  CMain.cpp
+  Bullet.cpp
+  BackGround.cpp
+  코드를 생성하고 있습니다...
+  FrameWork.vcxproj -> C:\Users\DevStudent\Desktop\프로그래밍\sbs게임아카데미\SBS 컴퓨터 게임아카데미 (2)\c++ 표준\160823\FrameWork7\Debug\FrameWork.exe
+  FrameWork.vcxproj -> C:\Users\DevStudent\Desktop\프로그래밍\sbs게임아카데미\SBS 컴퓨터 게임아카데미 (2)\c++ 표준\160823\FrameWork7\Debug\FrameWork.pdb (Partial PDB)

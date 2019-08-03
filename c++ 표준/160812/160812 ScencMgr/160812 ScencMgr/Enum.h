@@ -1,0 +1,6 @@
+enum STATEID
+{
+	ID_LOGO		,
+	ID_MYMENU	,
+	ID_STAGE	,
+};

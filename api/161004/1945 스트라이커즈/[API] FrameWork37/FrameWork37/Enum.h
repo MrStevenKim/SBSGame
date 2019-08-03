@@ -1,0 +1,17 @@
+#pragma once
+
+enum STATEID
+{
+	IDS_LOGO,
+	IDS_MENU,
+	IDS_EDIT,
+	IDS_STAGE,
+	IDS_END,
+};
+
+enum OBJID
+{
+	OBJ_PLAYER,
+	OBJ_MONSTER,
+	OBJ_END,
+};
